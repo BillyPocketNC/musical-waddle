@@ -13,9 +13,9 @@
           "version": "1.7.11",
           "deprecated": false,
           "category": "Penta Machine CO.",
-          "url": "https://billypocketnc.github.io/musical-waddle/boards/samd-1.7.11.tar.bz2",
-          "archiveFileName": "samd-1.7.11.tar.bz2",
-          "checksum": "SHA-256:4ab4fdb0879f92b76c18c86c3e6f5bc707601ff04a3c506f62b6284b54f5af5a",
+          "url": "https://billypocketnc.github.io/musical-waddle/boards/penta-samd-1.7.11.tar.bz2",
+          "archiveFileName": "penta-samd-1.7.11.tar.bz2",
+          "checksum": "SHA-256:c6b77d20880864d22edc6fa72d7e3dfeac074ae89726d159a452e4d8b16cbcfa",
           "size": "14473331",
           "boards": [
             {
